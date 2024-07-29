@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-//this is the composable function
+//this is to test the pull request
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
